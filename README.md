@@ -1,1 +1,1 @@
-# HackerRank-Java Solutions
+# HackerRank-JavaScript Solutions
